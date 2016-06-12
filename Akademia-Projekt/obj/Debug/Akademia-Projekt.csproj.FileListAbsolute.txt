@@ -1,0 +1,13 @@
+c:\users\jasiu\documents\visual studio 2013\Projects\Akademia-Projekt\Akademia-Projekt\bin\Debug\Akademia-Projekt.exe.config
+c:\users\jasiu\documents\visual studio 2013\Projects\Akademia-Projekt\Akademia-Projekt\obj\Debug\Akademia-Projekt.csprojResolveAssemblyReference.cache
+c:\users\jasiu\documents\visual studio 2013\Projects\Akademia-Projekt\Akademia-Projekt\obj\Debug\MainWindow.baml
+c:\users\jasiu\documents\visual studio 2013\Projects\Akademia-Projekt\Akademia-Projekt\obj\Debug\MainWindow.g.cs
+c:\users\jasiu\documents\visual studio 2013\Projects\Akademia-Projekt\Akademia-Projekt\obj\Debug\App.g.cs
+c:\users\jasiu\documents\visual studio 2013\Projects\Akademia-Projekt\Akademia-Projekt\obj\Debug\Akademia-Projekt_MarkupCompile.cache
+c:\users\jasiu\documents\visual studio 2013\Projects\Akademia-Projekt\Akademia-Projekt\obj\Debug\Akademia-Projekt.g.resources
+c:\users\jasiu\documents\visual studio 2013\Projects\Akademia-Projekt\Akademia-Projekt\obj\Debug\Akademia_Projekt.Properties.Resources.resources
+c:\users\jasiu\documents\visual studio 2013\Projects\Akademia-Projekt\Akademia-Projekt\obj\Debug\Akademia-Projekt.csproj.GenerateResource.Cache
+c:\users\jasiu\documents\visual studio 2013\Projects\Akademia-Projekt\Akademia-Projekt\bin\Debug\Akademia-Projekt.exe
+c:\users\jasiu\documents\visual studio 2013\Projects\Akademia-Projekt\Akademia-Projekt\bin\Debug\Akademia-Projekt.pdb
+c:\users\jasiu\documents\visual studio 2013\Projects\Akademia-Projekt\Akademia-Projekt\obj\Debug\Akademia-Projekt.exe
+c:\users\jasiu\documents\visual studio 2013\Projects\Akademia-Projekt\Akademia-Projekt\obj\Debug\Akademia-Projekt.pdb
