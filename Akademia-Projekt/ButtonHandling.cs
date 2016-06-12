@@ -21,6 +21,7 @@ namespace Akademia_Projekt
     {
         private void AddBook_Click(object sender, RoutedEventArgs e)
         {
+            Reset_Click(sender,e);
             int count = Books.Count;
             if ( count<(int)LibrarySize.max  && count >= (int)LibrarySize.min)
             try
@@ -45,6 +46,7 @@ namespace Akademia_Projekt
         }
         private void DeleteBook_Click(object sender, RoutedEventArgs e)
         {
+            Reset_Click(sender, e);
             try
             {
                 Book book = (Book)LibraryListView.SelectedItems[0];
